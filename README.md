@@ -44,5 +44,4 @@ Claude instala las dependencias del proyecto (Three.js, Matter.js, Vite y Playwr
 - Claude no puede escuchar el audio: escúchalo tú antes de publicar.
 - El logo y la paleta de marca los aportas tú; la plantilla no los recrea.
 
-## Licencia
-[ELIGE UNA LICENCIA: ver el paso 3 de la guía.]
+## Licencia MIT 
