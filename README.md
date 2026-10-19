@@ -2,7 +2,7 @@
 
 Una plantilla de instrucciones (`CLAUDE.md`) para que [Claude Code](https://claude.com/claude-code) convierta un documento técnico (informe, manual, norma) en un **video animado por código**. Produce un MP4, la música original en MP3 y una página HTML interactiva con capítulos.
 
-Con esta plantilla se hizo el resumen animado del *Informe de Planeamiento Operativo Eléctrico, tercer trimestre 2026* de XM: [ver el video en LinkedIn](PEGA-AQUÍ-EL-ENLACE).
+Con esta plantilla se hizo el resumen animado del *Informe de Planeamiento Operativo Eléctrico, tercer trimestre 2026* de XM: [ver el video en LinkedIn]([PEGA-AQUÍ-EL-ENLACE](https://lnkd.in/p/eKpPvmTW)).
 
 ## Qué hace la plantilla
 - Obliga a un orden de trabajo: concepto → gancho → guion con tiempos → transiciones → sonido → construcción → revisión.
